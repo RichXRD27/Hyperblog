@@ -3,7 +3,7 @@ un blog increible para el curso de [Git y Github](https://platzi.com/clases/1557
 >El curso de Git y Github es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintetica para machine learning
 * niñita
 
-##En este curso veremos de todo 
+## En este curso veremos de todo 
 * Todos tus comando de Git
 * El flujo de trabajo de Github
 * El verdadero amor por las buenas practicas
