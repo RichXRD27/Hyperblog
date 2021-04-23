@@ -8,6 +8,8 @@ demoramos mucho
 
 master 01
 
+master 02
+
 82 platzi es alguien que contribuye a este proyecto open source
 
 mañana nos enfocaremos en su vida laboral atento¡¡
