@@ -5,14 +5,7 @@ cuatro
 cinco
 seis
 siete
-ocho
-nueve
-diez
 
 one
 two
 three
-four
-five 
-six
-seven
